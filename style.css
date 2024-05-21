@@ -1,3 +1,16 @@
 :root{
     --cor-branca:#FFFFFF;
+    --cinza-secundario:#C0C0C0;
+    --botão-azul:#167BF7;
+    --cor-de-fundo:#380c2b;
+}
+
+body{
+    background-color: var(--cor-de-fundo);
+    color: rgb(244, 105, 6)
+}
+
+*{
+    margin: 0;
+    padding: 0;
 }
