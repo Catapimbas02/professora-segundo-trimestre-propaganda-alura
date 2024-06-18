@@ -18,11 +18,11 @@ body{
 .conteudo-pricipal{
     background-image: url(https://portaldobitcoin.uol.com.br/wp-content/uploads/sites/6/2022/06/Celular-com-Cassino-Online-e-roleta-.jpg?resize=800,430);
     display: grid;
-    grid-template-columns: 50% 50%;
 
 }
 
 .imagem-principal{
+    width: auto;
 }
 
 .container-botao{
