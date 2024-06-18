@@ -20,5 +20,6 @@ body{
 }
 
 .imagem-principal{
-    float: right;
+    position: absolute;
+    margin: 50%;
 }
