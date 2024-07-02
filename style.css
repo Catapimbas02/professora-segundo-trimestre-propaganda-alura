@@ -43,6 +43,7 @@ body{
 
 .imagem-principal{
     width: auto;
+    opacity: 10%;
 }
 
 .container-botao{
