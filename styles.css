@@ -20,8 +20,7 @@ body {
 }
 
 .principal {
-    display: grid;
-    grid-template-columns: auto;
+    background-image: url("arriscado.jpeg");
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
