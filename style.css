@@ -46,9 +46,12 @@ body{
 }
 
 .container-botao{
-background-color: #167BF7;
-padding: auto;
-display:block;
+    background-color: var(--botão-azul);
+    border-radius: 5px;
+    padding: 1em;
+    color: var(--branco-principal);
+    display: block;
+
 }
 
 .container-imagem {
