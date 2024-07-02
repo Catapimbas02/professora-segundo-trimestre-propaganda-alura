@@ -67,6 +67,8 @@ body {
 
 .secundario__imagem {
     width: 20%;
+    align-items: end;
+    
 }
 
 .secundario {
