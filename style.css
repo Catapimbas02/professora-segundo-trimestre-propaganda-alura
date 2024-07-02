@@ -5,9 +5,29 @@
     --cor-de-fundo:#380c2b;
 }
 
+.poppins-light {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .poppins-bold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+
 body{
     background-color: var(--cor-de-fundo);
-    color: rgb(244, 105, 6)
+    color: rgb(244, 105, 6);
+    font-family: 'Poppins', sans-serif;
 }
 
 *{
@@ -27,7 +47,8 @@ body{
 
 .container-botao{
 background-color: #167BF7;
-
+padding: auto;
+display:block;
 }
 
 .container-imagem {
