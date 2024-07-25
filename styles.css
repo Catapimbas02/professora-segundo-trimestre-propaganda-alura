@@ -66,10 +66,9 @@ body {
 }
 
 .secundario__imagem {
-    width: 40%;
-    align-items:flex-end;
-    justify-content: right;
-    opacity: 40%;
+    width: 60%;
+    grid-template-columns: auto;
+    opacity: 100%;
 
 }
 
