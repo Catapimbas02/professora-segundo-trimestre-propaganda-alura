@@ -60,12 +60,11 @@ body {
 
 .container__caixa {
     margin: 0 6em;
-    margin-top: 200px;
+    margin-top: 100px;
 }
 
 .secundario__imagem {
     width: 60%;
-    grid-template-columns: auto;
     opacity: 100%;
 
 }
@@ -89,4 +88,8 @@ body {
 .secundario-img{
     width: 80%;
 
+}
+.container-secundario{
+    align-items: center;
+    justify-content: center;
 }
