@@ -60,6 +60,8 @@ body {
 .container__caixa {
     margin: 0 6em;
     background-color: black;
+    width: 100%;
+    height: auto;
 }
 
 .secundario__imagem {
