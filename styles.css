@@ -20,7 +20,8 @@ body {
 }
 
 .principal {
-
+    background-image: url(image\ preto.jpg);
+    width: auto;
 }
 
 .container {
@@ -59,9 +60,7 @@ body {
 
 .container__caixa {
     margin: 0 6em;
-    background-color: black;
-    background-size: 150%;
-    height: auto;
+
 }
 
 .secundario__imagem {
