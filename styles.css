@@ -60,7 +60,7 @@ body {
 .container__caixa {
     margin: 0 6em;
     background-color: black;
-    width: 100%;
+    background-size: 150%;
     height: auto;
 }
 
