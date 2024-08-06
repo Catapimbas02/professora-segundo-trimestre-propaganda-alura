@@ -111,9 +111,13 @@ body {
 .dispositivos__titulo {
     font-size: 48px;
     color: var(--branco-principal);
+    align-items: center;
+    
 }
 
 .lista__item {
     font-size: 32px;
     color: var(--branco-principal);
+    width: 100px;
+    height: 100px;
 }
