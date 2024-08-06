@@ -103,6 +103,8 @@ body {
     list-style-type: none;
     margin: 5em 0;
     align-items: center;
+    width: 100px;
+    max-width: 100px;
 }
 
 .dispositivos {
@@ -120,8 +122,4 @@ body {
 .lista__item {
     font-size: 32px;
     color: var(--branco-principal);
-    width: 100px;
-    height: 100px;
-    max-width: 100px;
-    max-height: 100px;
 }
