@@ -112,7 +112,8 @@ body {
     font-size: 48px;
     color: var(--branco-principal);
     align-items: center;
-    
+    justify-content: center;
+
 }
 
 .lista__item {
