@@ -87,10 +87,13 @@ body {
 
 .secundario-img{
     width: 40%;
+    align-items: center;
+
 
 }
 
 .container-secundario{
     align-items: center;
+    justify-content: center;
 
 }
