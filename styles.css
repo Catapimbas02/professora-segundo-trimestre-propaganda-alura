@@ -97,3 +97,21 @@ body {
     justify-content: center;
 
 }
+.dispositivos-lista{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin: 5em 0;
+}
+
+.lista-item{
+    text-align: center;
+    font-size: 32;
+    color: var(--branco-principal);
+}
+
+.dispositivos-titulo{
+    text-align: center;
+    margin-top: 200px;
+    font-size: 48px;
+}
