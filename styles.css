@@ -93,8 +93,7 @@ body {
 .container-secundario{
     align-items: center;
     justify-content: center;
-    margin-top: 100px;
-    margin-left: 300px;
+
 }
 
 .dispositivos__lista {
