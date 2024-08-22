@@ -96,7 +96,7 @@ body {
 }
 
 .container-secundario{
-    display: flex;
+    grid-template-columns: auto;
     justify-content: center;
 
 }
