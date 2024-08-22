@@ -91,14 +91,14 @@ body {
 .secundario-img{
     width: 40%;
     align-items: center;
+    margin-left: auto;
+    
 
 
 }
 
 .container-secundario{
-    grid-template-columns: auto;
-    justify-content: center;
-
+    
 }
 .dispositivos-lista{
     display: flex;
