@@ -128,14 +128,20 @@ body {
 }
 
 .baixaki{
-    align-items: center;
     margin-top: 3em;
+    display: flex;
     
 }
 
 .botao-baixaki{
+    align-items: center;
     position: absolute;
     width: 30%;
     padding-top: 0%;
     margin-bottom: 3em;
+}
+
+.titulo-botao-baixaki{
+    align-items: center;
+    justify-content: center;
 }
